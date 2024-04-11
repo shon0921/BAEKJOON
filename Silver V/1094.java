@@ -1,8 +1,8 @@
-package Other;
+package Silver V;
 
 import java.util.Scanner;
 
-public class Ch13 {
+public class 1094 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int X = sc.nextInt();
