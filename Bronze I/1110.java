@@ -1,8 +1,8 @@
-package Other;
+package Bronze I;
 
 import java.util.Scanner;
 
-public class Ch16 {
+public class 1110 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
