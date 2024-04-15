@@ -1,8 +1,8 @@
-package Ch6;
+package Bronze I;
 
 import java.util.Scanner;
 
-public class T8 {
+public class B1934 {
     public static void main(String[] args) {
         Scanner s =new Scanner(System.in);
         int T = s.nextInt();
