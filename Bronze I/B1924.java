@@ -3,7 +3,7 @@ package Bronze I;
 import java.util.Scanner;
 
 // 월을 x 일을 y로 선언할것
-public class 1924 {
+public class B1924 {
     public static void main(String[] args) {
         int [] dayx  = {31,28,31,30,31,30,31,31,30,31,30,31};
         String [] dayy = {"SUN","MON", "TUE", "WED", "THU", "FRI", "SAT"} ;
