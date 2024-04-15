@@ -1,5 +1,5 @@
 package Bronze I;
-
+//
 import java.util.Scanner;
 
 public class B1110 {
