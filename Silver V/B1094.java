@@ -2,7 +2,7 @@ package Silver V;
 
 import java.util.Scanner;
 
-public class 1094 {
+public class B1094 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int X = sc.nextInt();
