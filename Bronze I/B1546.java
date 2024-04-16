@@ -1,8 +1,8 @@
-package Ch6;
+package Bronze I;
 
 import java.util.Scanner;
 
-public class T5 {
+public class B1546 {
     public static void main(String[] args) {
         Scanner s =new Scanner(System.in);
         double num2=0; // 최댓값
