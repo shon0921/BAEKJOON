@@ -1,4 +1,4 @@
-package Test;
+package Silver V;
 
 import java.util.Scanner;
 
