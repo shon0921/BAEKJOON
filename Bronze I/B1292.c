@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main()	//백준 사이트 에선 int로 선언
 {
 	int arr[1001];
 
@@ -19,17 +19,12 @@ void main()
 			}
 			num++;
 		}
-		
 	}
-
-	printf("�Է� : ");
 	scanf("%d %d",&num1,&num2);
-
 	for(int i = num1; i <=num2; i++)
 	{
 		sum += arr[i];
 	}
-
 	printf("%d",sum);
 }
 	
