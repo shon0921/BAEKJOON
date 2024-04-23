@@ -1,3 +1,5 @@
+package Silver V;
+
 import java.util.Scanner;
 
 public class B1789 {
@@ -16,6 +18,5 @@ public class B1789 {
             }
         }
         System.out.println(count-1);
-
     }
 }
