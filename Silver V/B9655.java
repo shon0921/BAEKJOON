@@ -14,6 +14,5 @@ public class B9655 {
         {
             System.out.println("SK");
         }
-//
     }
 }
