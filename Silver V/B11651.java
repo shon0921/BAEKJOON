@@ -8,7 +8,7 @@ public class Main {
         int N = s.nextInt();
 
         int[][] arr = new int[N][2];    //생성
-
+                                        //
         for (int i=0;i<N;i++)
         {
             arr[i][1] = s.nextInt();    // y 입력
